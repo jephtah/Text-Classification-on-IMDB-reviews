@@ -15,7 +15,7 @@ The preprocessed data is stored in corpus.
 Model:
 Here I have used TfidfVectorizer from sklearn.feature_extraction.text
 library which works similarly to CounterVectorizer followed by
-TfidfTransformer. Due to this we can assign different weights to words,
+TfidfTransformer. Due to this i assign different weights to words,
 and all words are not given the same importance.
 
 Machine Learning:
